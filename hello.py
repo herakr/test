@@ -1,2 +1,2 @@
 # hello
-print("hello there")
+print("hello")
